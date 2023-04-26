@@ -1,0 +1,7 @@
+This program is written in C++ language.
+
+Pre-requisites are:
+  Microsoft Visual Code
+  C++ compiler
+  
+Contributions are welcome.
